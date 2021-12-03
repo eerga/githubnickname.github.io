@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SAS on Erika Ergart</title>
+    <link>https://eerga.github.io/tags/sas/</link>
+    <description>Recent content in SAS on Erika Ergart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Dec 2020 11:25:05 -0400</lastBuildDate><atom:link href="https://eerga.github.io/tags/sas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classification Algorithms to Forecast if a Firm Will Collapse</title>
+      <link>https://eerga.github.io/post/bankruptcy/</link>
+      <pubDate>Sun, 06 Dec 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/post/bankruptcy/</guid>
+      <description>Project Overview Firm collapse prediction has been a subject of interests for almost a century and it still ranks high among hottest topics in economics. The aim of predicting financial distress is to develop a predictive model that combines various econometric measures and allows to foresee a financial condition of a firm. The purpose of the bankruptcy prediction is to assess the financial condition of a company and its future perspectives within the context of long-term operation on the market.</description>
+    </item>
+    
+  </channel>
+</rss>

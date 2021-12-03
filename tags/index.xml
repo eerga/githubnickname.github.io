@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Erika Ergart</title>
+    <link>https://eerga.github.io/tags/</link>
+    <description>Recent content in Tags on Erika Ergart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jul 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://eerga.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R</title>
+      <link>https://eerga.github.io/tags/r/</link>
+      <pubDate>Wed, 07 Jul 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tableau</title>
+      <link>https://eerga.github.io/tags/tableau/</link>
+      <pubDate>Fri, 11 Jun 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/tags/tableau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://eerga.github.io/tags/sql/</link>
+      <pubDate>Wed, 21 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apache Calcite</title>
+      <link>https://eerga.github.io/tags/apache-calcite/</link>
+      <pubDate>Mon, 12 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/tags/apache-calcite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apache Kafka</title>
+      <link>https://eerga.github.io/tags/apache-kafka/</link>
+      <pubDate>Mon, 12 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/tags/apache-kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://eerga.github.io/tags/docker/</link>
+      <pubDate>Mon, 12 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://eerga.github.io/tags/python/</link>
+      <pubDate>Tue, 09 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GCP</title>
+      <link>https://eerga.github.io/tags/gcp/</link>
+      <pubDate>Sat, 12 Dec 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/tags/gcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAS</title>
+      <link>https://eerga.github.io/tags/sas/</link>
+      <pubDate>Sun, 06 Dec 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/tags/sas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RShiny</title>
+      <link>https://eerga.github.io/tags/rshiny/</link>
+      <pubDate>Sun, 04 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/tags/rshiny/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

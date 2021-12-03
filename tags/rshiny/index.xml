@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RShiny on Erika Ergart</title>
+    <link>https://eerga.github.io/tags/rshiny/</link>
+    <description>Recent content in RShiny on Erika Ergart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Oct 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://eerga.github.io/tags/rshiny/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personality Test Findings, Purdue University Business Analytics and Information Management (BAIM) Program</title>
+      <link>https://eerga.github.io/post/shinyapp/</link>
+      <pubDate>Sun, 04 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/post/shinyapp/</guid>
+      <description>App Link
+  Goal RShiny app displays top 5 personality traits such as extraversion, agreeableness, conscientiousness, neuroticism, and openness necessary for a successful data scientist / data analyst across various professions and employment sectors as well as demographics data and undergraduate background
+Sample group Sample was taken from 140+ Business Analytics and Information Management graduates from Purdue University. Sample cannot generalize population statistic
+Sample Picture of the Extraversion  From the picture above, it is possible to notice that data scientists in the food industry along with other professionals in the construction business have the highest average scores of 30.</description>
+    </item>
+    
+  </channel>
+</rss>

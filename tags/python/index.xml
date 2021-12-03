@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Erika Ergart</title>
+    <link>https://eerga.github.io/tags/python/</link>
+    <description>Recent content in Python on Erika Ergart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Mar 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://eerga.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding and Predicting Project Payment Latency in the Covid-19 Era</title>
+      <link>https://eerga.github.io/post/o2c/</link>
+      <pubDate>Tue, 09 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/post/o2c/</guid>
+      <description>Abstract This study develops an order-to-cash process map predictive solution to better understand home remodeling projects&#39; pre- and post-COVID-19 payment latency. In remodeling projects, the day a project is sold (and past rescission) to the time payment is received or installment is first accepted is defined as “order-to-cash.” The risks of delayed processes and delay customer payments can hurt the company’s solvency and financial stability. Especially in the economic condition caused by the pandemic.</description>
+    </item>
+    
+    <item>
+      <title>The Popularity Secret Behind Pokémon Card Resale Market</title>
+      <link>https://eerga.github.io/post/pokemon/</link>
+      <pubDate>Fri, 04 Dec 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/post/pokemon/</guid>
+      <description>Goal Our Data Analytics team assessed the influence of Pokémon YouTubers on Pokémon card resale. Our hypothesis was: the higher the YouYube views are, the higher the resale rate of Pokémon cards is. We web scraped historical data of Pokémon card prices and top 10 Pokémon YouTubers’ views, using Wayback Machine and Python 
+What we used The packages we used are Chromedrive and BeautifulSoup.
+Project Conclusion After conducting statistical analysis and building a descriptive model, we concluded that YouTube views solely cannot explain an increased popularity in Pokémon card resale and other features should be incorporated into the study.</description>
+    </item>
+    
+  </channel>
+</rss>
